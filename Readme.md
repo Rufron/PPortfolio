@@ -8,7 +8,7 @@ This is a personal portfolio website built using **HTML and CSS** only. It showc
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](assets/screen.png)
+![Portfolio Screenshot](css/assets/screen.png)
 
 ## 🧠 Features
 
